@@ -1,5 +1,7 @@
 # インストール方法
 
+[インストール方法（公式）](https://pytorch.org/get-started/locally/)
+
 ## Requirements
 
 - Anaconda3
