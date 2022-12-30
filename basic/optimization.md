@@ -25,7 +25,7 @@
 ### 最適化アルゴリズム
 - パラメータを更新するアルゴリズム
 - 例
-  - [`torch.optim.SGD()`](https://pytorch.org/docs/stable/optim.html): 確率的勾配降下法
+  - [`torch.optim`](https://pytorch.org/docs/stable/optim.html)`.SGD()`: 確率的勾配降下法
 
 ```python
 optimizer = torch.optim.SGD(model.parameters(), lr=1e-3, momentum=0.9)
